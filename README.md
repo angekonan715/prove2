@@ -1,15 +1,17 @@
-# Prove2 asignment : Hilo Game
+# Hilo Game
 ## Overview
 
-Hilo is a game in which the player guesses 
+Hilo is a game in which the player guesses if the next card drawn by the dealer will be
 
-if the next card drawn by the dealer will be
+higher or lower than the previous one. Points are won or lost based on whether 
 
-higher or lower than the previous one.
+or not the player guessed correctly. 
 
-Points are won or lost based on whether 
+Please download the following files into your laptop folder to run my program:
 
-or not the player guessed correctly.
+* [main.py](https://angekonan715.github.io/prove2/main.py)
+* [cards.py](https://angekonan715.github.io/prove2/cards.py)
+* [playGame.py](https://angekonan715.github.io/prove2/playGame.py)
 
 ## Game Description
 
@@ -27,7 +29,7 @@ or not the player guessed correctly.
 ## Objects
 
 The following object names were created to program our game.
-## 1. Cards Object
+## 1. [Cards Object](https://angekonan715.github.io/prove2/cards.py)
 Cards object can be found in cards.py file. 
 ### Responsabilities
 Its main responsibilties are to :
@@ -35,7 +37,7 @@ Its main responsibilties are to :
 - generate a random card named current_card from the list of cards
 - generate a random card named next_card from the list of cards
 
-## 2. Player Object
+## 2. [Player Object](https://angekonan715.github.io/prove2/playGame.py)
 Players object can be found in playingGame.py file
 ###  Attribute
 - points (int)
@@ -49,6 +51,6 @@ Players object can be found in playingGame.py file
 - play_game : run the game
 
 #### Note 
-I also made a file called __main__.py that import the player object , instantiate and run the gain.
+I also made a file called [main.py](https://angekonan715.github.io/prove2/main.py) that import the player object , instantiate and run the gain.
 
 :+1: Thanks You For Reading Me
