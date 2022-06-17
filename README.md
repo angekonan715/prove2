@@ -7,7 +7,7 @@ higher or lower than the previous one. Points are won or lost based on whether
 
 or not the player guessed correctly. 
 
-Please download the following files into your laptop folder to run my program:
+**Please download the following files into your laptop folder to run my program:**
 
 * [main.py](https://angekonan715.github.io/prove2/main.py)
 * [cards.py](https://angekonan715.github.io/prove2/cards.py)
@@ -53,4 +53,4 @@ Players object can be found in playingGame.py file
 #### Note 
 I also made a file called [main.py](https://angekonan715.github.io/prove2/main.py) that import the player object , instantiate and run the gain.
 
-:+1: Thanks You For Reading Me
+@:+1: Thanks You For Reading Me
