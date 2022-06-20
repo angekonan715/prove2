@@ -1,4 +1,8 @@
 # Hilo Game
+### Information
+- Full Name: Kouadio Ange Konan
+- Email:[angekonankouadio@yahoo.fr](angekonankouadio@yahoo.fr)
+- Phone Number: +225 0749715895
 ## Overview
 
 Hilo is a game in which the player guesses if the next card drawn by the dealer will be
