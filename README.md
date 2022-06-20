@@ -1,7 +1,7 @@
 # Hilo Game
 ### Information
 - Full Name: Kouadio Ange Konan
-- Email:[angekonankouadio@yahoo.fr](angekonankouadio@yahoo.fr)
+- Email: [angekonankouadio@yahoo.fr](angekonankouadio@yahoo.fr)
 - Phone Number: +225 0749715895
 ## Overview
 
